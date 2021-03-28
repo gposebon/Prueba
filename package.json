@@ -1,12 +1,11 @@
 {
   "name": "increase",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prueba para entrevita de empresa Increase",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "runTest": "./node_modules/.bin/cypress run",
-    "openTest": "./node_modules/.bin/cypress open"
+    "consoleTest": "./node_modules/.bin/cypress run",
+    "guiTest": "./node_modules/.bin/cypress open"
   },
   "keywords": [],
   "author": "",
