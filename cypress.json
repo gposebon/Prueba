@@ -1,0 +1,5 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://www.google.com",
+    "testFiles": "**/*.spec.*"
+}
